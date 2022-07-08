@@ -3,17 +3,17 @@
   }
   
   body {
-    background-color: #fa8096;
+    background-color: #8480fa;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
   }
   
   #title {
     font-size: 28px;
     color: #2f3542;
-    border: 3px solid #fa8096;
+    border: 3px solid #8480fa;
     padding: .2em;
     border-radius: 5px;
-    background-color: #68ffb6;
+    background-color: #6a65f9;
     text-align: center;
     margin-top: 0;
   }
@@ -30,11 +30,11 @@
   }
   
   #instructions {
-    border: 2px solid rgb(60, 255, 118);
+    border: 2px solid #6a65f9;
     margin-bottom: 15px;
     border-radius: 5px;
     color: #2f3542;
-    background-color: #68ffb6;
+    background-color: #6a65f9;
     max-height: 55px;
     overflow: hidden;
     transition: max-height 0.3s ease-out
@@ -113,9 +113,9 @@
   }
   
   #random-password-container {
-    border: 2px solid #68ffb6;
+    border: 2px solid #6a65f9;
     border-radius: 5px;
-    background-color: #68ffb6;
+    background-color: #6a65f9;
     padding: 1em;
   }
   
